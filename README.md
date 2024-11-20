@@ -5,22 +5,22 @@ Loan Risk Analysis for Consumer Finance lending company.EDA to understand how co
 
 
 ## Table of Contents
-* [General Info](##general-information)
-* [Analysis Overview](##analysis-overview)
-* [Technologies Used](##technologies-used)
-* [Conclusions](##conclusions)
-* [How To Run Project](##how-to-run-project)
-* [Contact Me](##contact)
+* [General Info](#general-information)
+* [Analysis Overview](#analysis-overview)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [How To Run Project](#how-to-run-project)
+* [Contact Me](#contact)
 
 
-## General Information
+# General Information
 The primary objective is to analyze loan applicant data and determine the factors that influence loan defaults, allowing the company to:
 - Reduce financial losses by identifying risky applicants.
 - Improve loan approval decisions.
 - Understand the drivers behind loan defaults using EDA.
 
 
-## 📊 **Analysis Overview**
+# 📊 **Analysis Overview**
 ### 1. **Business Understanding**
 The company faces two primary risks:
 - Approving loans for applicants likely to default, causing financial loss.
@@ -49,7 +49,7 @@ The company faces two primary risks:
 - Loans for debt consolidation and small businesses exhibit higher default rates.
 
 
-## Technologies Used
+# Technologies Used
  **Programming Language**: Python
 - **Libraries**: 
   - Pandas
@@ -58,7 +58,7 @@ The company faces two primary risks:
   - Seaborn
   - Plotly (if interactive visualizations are included)
 
-## Conclusions
+# Conclusions
 The following visualizations are included:
 - Loan Status Distribution
 - Interest Rate KDE Plot for Defaulters vs. Non-Defaulters
@@ -67,7 +67,7 @@ The following visualizations are included:
 - Boxplots and Histograms for Risk Analysis
 
 
-## 🚀 **How to Run**
+# 🚀 **How to Run**
 1. Clone the repository:
    git clone https://github.com/nisha60dg/LendingClubCaseStudy.git
    git checkout main branch
@@ -75,5 +75,5 @@ The following visualizations are included:
    jupyter notebook notebooks/ML69_Nisha_Pathania.ipynb
 
 
-## Contact
+# Contact
 Created by [@nisha60dg] - feel free to contact me!
